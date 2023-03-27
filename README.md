@@ -1,17 +1,3 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
-
 # Practical guide to convert Solidity JSON ABI into an easy to understand ABI using Hardhat
 
 Repository used during the development of an article on DukesCode about ["Practical guide to convert Solidity JSON ABI into an easy to understand ABI using Hardhat"](https://www.dukescode.com/practical-guide-to-convert-solidity-json-abi-into-an-easy-to-understand-abi-using-hardhat?utm_source=github&utm_medium=readme&ref=github).
